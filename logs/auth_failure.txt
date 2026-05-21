@@ -1,0 +1,1 @@
+2026-05-21 14:10:50 ERROR AuthenticationFailedException: Invalid username or password

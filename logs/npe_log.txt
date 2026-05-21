@@ -1,0 +1,2 @@
+2026-05-21 10:15:22 ERROR java.lang.NullPointerException at UserService.java:45
+2026-05-21 10:15:25 ERROR java.lang.NullPointerException at PaymentService.java:88

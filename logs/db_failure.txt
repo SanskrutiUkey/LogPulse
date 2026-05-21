@@ -1,0 +1,1 @@
+2026-05-21 12:30:40 ERROR DatabaseConnectionException: Unable to connect to DB server
